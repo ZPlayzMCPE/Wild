@@ -6,10 +6,8 @@ author: SkyLightMCPE
 website: https://github.com/SkyLightMCPE
 commands:
   wild:
-  usage: /wild 
-  description: Teleports you in a random place!
-  
+    description: "Teleport's you to a random place"
 permissions:
   wild.command:
+    description: "Wild command permission"
     default: true
-    description: Permission to use /wild
