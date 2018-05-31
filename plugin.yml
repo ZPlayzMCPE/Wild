@@ -5,11 +5,11 @@ api: [3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.
 author: SkyLightMCPE
 website: https://github.com/SkyLightMCPE
 commands:
- wild:
+  wild:
   usage: /wild 
   description: Teleports you in a random place!
   
 permissions:
   wild.command:
-  default: true
-  description: Wild permission.
+    default: true
+    description: Permission to use /wild
